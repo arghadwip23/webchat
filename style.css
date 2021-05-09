@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Lemonada:wght@700&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+    font-size: 15pt;
+}
+ #show_if_logout{
+    height: 100vh;
+    background: #000;
+}
+h3{
+    color: #B6B6B6;
+}
+h1{
+    font-family: Lemonada;
+}
+small{
+    font-size: 10px;
+}
+#emailverify{
+    height: 100vh;
+    background: #B6D1FF;
+    display: none;
+}
