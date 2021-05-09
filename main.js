@@ -40,7 +40,7 @@ btn.addEventListener('click', e => {
     auth.createUserWithEmailAndPassword(em, pass).then(() => {
         console.log("hi");
         var actionCodesettings = {
-            url: "https://jnvcob.firebaseapp.com",
+            url: "https://arghadwip23.github.io/webchat/auth.html?a=fg",
             handleCodeInApp: true
         };
         auth.sendSignInLinkToEmail(em, actionCodesettings).then(() => {
